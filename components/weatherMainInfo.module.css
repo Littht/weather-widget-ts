@@ -1,0 +1,39 @@
+.mainInfo{
+    background-color: #3d3d3d;
+    border-radius: 4px;
+    padding: 8px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+    justify-content: center;
+}
+.city{
+    font-size: 32px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.country{
+    font-size: 20px;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.condition{
+    font-size: 24px;
+}
+
+.current{
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.mapa{
+    margin: 0 auto;
+}
